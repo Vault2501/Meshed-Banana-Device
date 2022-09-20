@@ -3,6 +3,9 @@ Meshed Banana is LoRa Router for the Reticulum Mesh protocol. It consists of a E
 
 <img src="https://github.com/Vault2501/Meshed-Banana-Device/wiki/pictures/Meshed_Banana.jpg" width="160">
 
+## Price
+All parts currently cost about 80 Euros.
+
 ## Case
 All files for the 3D printed case are included in this repo, the stl files are also available on [thingiverse](https://www.thingiverse.com/thing:5359788).
 
