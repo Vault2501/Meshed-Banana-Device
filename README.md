@@ -11,7 +11,7 @@ All files for the 3D printed case are included in this repo, the stl files are a
 
 ## OS Image
 Instructions on how to build an Armbian image can be found in the [Meshed Banana Image repo](https://github.com/Vault2501/Meshed-Banana-image)<br>
-A pre built Meshed Banana OS image with reticulum stack and configuration is available on [Google Drive](https://drive.google.com/file/d/1DScvHtO_SD-lXaykb0QlwCe_j3PSC_U4/view?usp=sharing).
+A pre built Meshed Banana OS image with reticulum stack and configuration is available on [Google Drive](https://drive.google.com/file/d/1nXWuWTRe8JUrRl9gqgPucEm9WEflFm2d/view?usp=sharing).
 
 ## Instructions
 - [Parts](https://github.com/Vault2501/Meshed-Banana-Device/wiki/Parts)
